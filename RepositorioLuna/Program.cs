@@ -10,7 +10,7 @@ namespace RepositorioLuna
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo, mi nombre es Luna")
+            Console.WriteLine("Hola Mundo, mi nombre es Luna");
         }
     }
 }
